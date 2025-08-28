@@ -17,7 +17,7 @@
 
 <h2>📂 Repository Structure</h2>
 <pre><code>tic-tac-toe/
-│── main.py     
+│── Game.py     
 │── ui.py      
 │── board.py   
 │── logic.py    
@@ -30,7 +30,7 @@
 <h2>📝 File Descriptions</h2>
 <ul>
   <li>
-    <a href="https://github.com/SupratikB23/Tic-Tac-Toe-Game/blob/main/Game.py"><code>main.py</code></a> — Entry point. Initializes the Tkinter root window and starts the game loop.
+    <a href="https://github.com/SupratikB23/Tic-Tac-Toe-Game/blob/main/Game.py"><code>Game.py</code></a> — Entry point. Initializes the Tkinter root window and starts the game loop.
   </li>
   <li>
     <a href="https://github.com/SupratikB23/Tic-Tac-Toe-Game/blob/main/ui.py"><code>ui.py</code></a> — UI setup (title, status label, buttons, play area). Handles switching between
