@@ -74,10 +74,3 @@ cd tic-tac-toe
 <p>
   This project is licensed under the Apache-2.0 license.
 </p>
-
-<hr />
-
-<p>
-  <em>Tip:</em> If you change file names or structure, update the links above
-  (e.g., <a href="./ui.py">ui.py</a>, <a href="./board.py">board.py</a>, <a href="./logic.py">logic.py</a>, <a href="./ai.py">ai.py</a>, <a href="./main.py">main.py</a>).
-</p>
