@@ -30,21 +30,21 @@
 <h2>📝 File Descriptions</h2>
 <ul>
   <li>
-    <a href="./main.py"><code>main.py</code></a> — Entry point. Initializes the Tkinter root window and starts the game loop.
+    <a href="https://github.com/SupratikB23/Tic-Tac-Toe-Game/blob/main/Game.py"><code>main.py</code></a> — Entry point. Initializes the Tkinter root window and starts the game loop.
   </li>
   <li>
-    <a href="./ui.py"><code>ui.py</code></a> — UI setup (title, status label, buttons, play area). Handles switching between
+    <a href="https://github.com/SupratikB23/Tic-Tac-Toe-Game/blob/main/ui.py"><code>ui.py</code></a> — UI setup (title, status label, buttons, play area). Handles switching between
     “Play with Human” and “Play with Computer”.
   </li>
   <li>
-    <a href="./board.py"><code>board.py</code></a> — Defines the <code>XOPoint</code> class representing each grid cell and
+    <a href="https://github.com/SupratikB23/Tic-Tac-Toe-Game/blob/main/board.py"><code>board.py</code></a> — Defines the <code>XOPoint</code> class representing each grid cell and
     tracks moves made by <code>X</code> and <code>O</code>.
   </li>
   <li>
-    <a href="./logic.py"><code>logic.py</code></a> — Declares winning lines, checks for a winner/draw, and disables input when the game ends.
+    <a href="https://github.com/SupratikB23/Tic-Tac-Toe-Game/blob/main/logic.py"><code>logic.py</code></a> — Declares winning lines, checks for a winner/draw, and disables input when the game ends.
   </li>
   <li>
-    <a href="./ai.py"><code>ai.py</code></a> — Computer opponent logic (<code>auto_play</code>): try to win, otherwise block, otherwise take center or corners.
+    <a href="https://github.com/SupratikB23/Tic-Tac-Toe-Game/blob/main/ai.py"><code>ai.py</code></a> — Computer opponent logic (<code>auto_play</code>): try to win, otherwise block, otherwise take center or corners.
   </li>
 </ul>
 
